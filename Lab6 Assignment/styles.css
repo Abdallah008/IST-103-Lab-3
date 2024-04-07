@@ -36,10 +36,10 @@ header nav ul li {
 }
 
 header nav ul li a {
-  border-right: 0.5px solid black; 
+  border-right: 0.5px solid black;
   display: inline-block;
   color: #0c0c0c;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .Welcome {
