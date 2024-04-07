@@ -36,12 +36,13 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #010101;
-  text-decoration: none;
-  
+  border-right: 0.5px solid black; 
+  display: inline-block;
+  color: #0c0c0c;
+  text-decoration:none;
 }
 
-.home {
+.Welcome {
   padding-top: 20px;
   padding-left: 30px;
   padding-bottom: 20px;
