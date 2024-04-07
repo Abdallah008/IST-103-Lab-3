@@ -48,7 +48,7 @@ header nav ul li a {
   padding-bottom: 20px;
 }
 
-.border {
+.box {
   display: flex;
   border-style: solid;
   background-color: rgb(230, 176, 176);
@@ -58,7 +58,7 @@ header nav ul li a {
   margin-bottom: 15px;
 }
 
-.border ul {
+.box ul {
   display: inline-block;
   border-style: dotted;
   box-sizing: auto;
@@ -66,15 +66,15 @@ header nav ul li a {
   text-align: right;
 }
 
-.border p {
+.box p {
   display: block;
 }
 
-.inner-border {
+.inner-box {
   width: 80%;
 }
 
-.border2 {
+.box2 {
   display: flex;
   border-style: solid;
   background-color: rgb(230, 176, 176);
@@ -89,7 +89,7 @@ img {
   border-style: groove;
 }
 
-.inner2-border {
+.inner2-box {
   width: 20%;
 }
 
